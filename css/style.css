@@ -53,14 +53,14 @@ p {
 
 .header-content p::before {
     content: "__";
-    color: #0eb493;
+    color: #F9CC33;
     position: relative;
     top: -6px;
 }
 
 .header-content p::after {
     content: "__";
-    color: #0eb493;
+    color: #F9CC33;
     position: relative;
     top: -6px;
 }
@@ -71,7 +71,7 @@ p {
 }
 
 .header-content h4 span {
-    color: #0eb493;
+    color: #F9CC33;
     font-family: 'Open Sans', sans-serif;
     font-weight: 800;
 }
@@ -145,7 +145,7 @@ p.underline::after {
 .services-section h2,
 .bg h2,
 .team-section h2 {
-    color: #0eb493;
+    color: #F9CC33;
     font-size: 25px;
     font-weight: 700;
     font-style: 'Open Sans', sans-serif;
@@ -324,7 +324,7 @@ figure.snip1471.hover figcaption .icons {
 .contact-us h2,
 .work h2,
 .contact-section h2 {
-    color: #0eb493;
+    color: #F9CC33;
     font-family: 'Open Sans', sans-serif;
     font-size: 25px;
     font-weight: 800;
