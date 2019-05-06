@@ -330,6 +330,13 @@ figure.snip1471.hover figcaption .icons {
     font-weight: 800;
 }
 
+.about-us h2 {
+    color: #F9CC33;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 800;
+}
+
 .contact-us p,
 .contact-us p::before,
 .contact-us p::after,
